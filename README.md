@@ -1,3 +1,3 @@
 # Wastelligence
-Capstone Designe
+Capstone Designe <br>
 Python / Tensorflow / Object Detection
