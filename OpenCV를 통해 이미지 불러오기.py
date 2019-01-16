@@ -33,3 +33,4 @@ cv2.destroyAllWindows()
 
 
 ## https://www.youtube.com/watch?v=w8iO9X5jcf8 참고영상
+## https://stackoverrun.com/ko/q/12265798 이미지 크기
