@@ -5,6 +5,9 @@ import cv2
 # 두 번째 인자는 이미지를 읽을 때 사용되는 flag 입니다.
 img_test = cv2.imread('image.jpg', cv2.IMREAD_COLOR)
 
+# 이미지 크기를 변환하여 출력합니다.
+# i.e resize_img = cv2.resize(img_test, (1280, 720))
+
 ## cv2.imread(filename,[flags])
 # flags의 값에 따라서 이미지를 다양하게 불러올 수 있습니다.
 # cv2.IMREAD_COLOR는 투명도 정보를 포함하지 않은 이미지를 컬러로 불러옵니다.
